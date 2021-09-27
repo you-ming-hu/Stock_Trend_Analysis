@@ -9,13 +9,13 @@
 ```
 ├─ Demo : 專案使用範例
 |  ├─ DataUpdateManager.ipynb 	透過Stocky內dataset相關的API，進行資料維護
-|  └─ Research					使用的範例
-|     ├─ Analyse.ipynb			分析模型回測結果
-|     ├─ R0.ipynb				建立第0號模型，進行回測
-|     └─ ...					建立第n號模型，進行回測
-├─ Stocky						主程式與資料存放處
+|  └─ Research					      使用的範例
+|     ├─ Analyse.ipynb			   分析模型回測結果
+|     ├─ R0.ipynb				      建立第0號模型，進行回測
+|     └─ ...					      建立第n號模型，進行回測
+├─ Stocky						      主程式與資料存放處
 |  └─ ...
-└─ 下載html					建立新資料時，收集較大量歷史資料用
+└─ 下載html					       建立新資料時，收集較大量歷史資料用
    └─ ...
 ```
 
